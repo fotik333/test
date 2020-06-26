@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55b258f7-a2b0-4e76-8fb4-0fe702e38064" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/MyScripts/PongBall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/OnButtonClicked.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Game.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/OptionsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SaveLoadManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Mirror.asmdef" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RecordChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/IValueChanged.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SampleImageColorChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SliderInitializer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CounterChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/7A640F6C-B241-40B6-897C-AC910F849430/70/c63dd491/Single.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonClickedEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/Ball.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GamePlayManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/Mirror.Components.asmdef" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/BallMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/PaddleMovement.cs" />
+        <option value="$PROJECT_DIR$/Assets/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/SettingsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/ISliderInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/SliderInitializerBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/SaveLoadManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/ApplicationManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/OptionsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Application.cs" />
+        <option value="$PROJECT_DIR$/Assets/SampleImageColorChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/SliderInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameMenuManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/GameMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Application.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/IValueChanged.cs" />
+        <option value="$PROJECT_DIR$/Assets/CounterChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/RecordChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main/OptionsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main/Application.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main/SliderInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/GamePlayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/RecordChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/CounterChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Main/SampleImageColorChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MainMenu.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SomeButtonClickEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClickedEventHandler.cs" />
+        <option value="$PROJECT_DIR$/Assets/OnButtonClicked.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SaveLoadManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OptionsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecordChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SliderInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleImageColorChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Afdkwa.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Examples/Pong/Scripts/NetworkManagerPong.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Examples/PongBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GamePlayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/MyScripts/PongBall.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dSQGRe4oSm60a4XzPsHqw8kK8r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55b258f7-a2b0-4e76-8fb4-0fe702e38064" name="Default Changelist" comment="" />
+      <created>1592415919840</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592415919840</updated>
+      <workItem from="1592415926632" duration="4498000" />
+      <workItem from="1592482097320" duration="23080000" />
+      <workItem from="1592654548310" duration="19638000" />
+      <workItem from="1592725757186" duration="13644000" />
+      <workItem from="1592741729229" duration="2820000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="788" y="195" key="RiderGenerateDialog" timestamp="1592669045053">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="788" y="195" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592669045053" />
+    <state x="638" y="252" width="644" height="536" key="find.popup" timestamp="1592729614490">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="638" y="252" width="644" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592729614490" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1592741007207">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592741007207" />
+  </component>
+</project>

@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="399847ea-9336-4ec4-8c52-445d3b064bf0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/TelepathyTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TextMeshProFloatingText.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextInfoDebugTool.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_A.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Client.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TeleType.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_FrameRateCounter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Telepathy/Logger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IPaddleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/PaddleSingleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextSelector_B.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/EnterPlayModeSettingsCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Websocket/WebsocketTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/NetworkBehaviourInspector.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/Websocket/Server.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/NetworkScenePostProcess.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/NetworkManagerEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/509C587A-3371-4222-B5E8-1666B5099AF1/76/6639a698/GUISkin.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkRoomManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/SceneDrawer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/SaveLoadManger.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/OptionsManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Authenticators/BasicAuthenticator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/CameraResolution.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/ClientScene.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IValueChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/NetworkTransformChild.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/CompilationFinishedHook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GamePlayNetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/GamePlayManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Listeners/CounterChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Listeners/ButtonClickedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Messages.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Listeners/SampleImageColorChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Listeners/RecordChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Managers/SomeButtonClickedManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkConnection.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryBase.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Listeners/SliderValueChangedListener.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkClient.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Interfaces/IGamePlayManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscovery.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/BallSingleBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Components/Discovery/NetworkDiscoveryHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Writers.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/MultiPlayer/PaddleNetworkBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkIdentity.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventCheck.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile Overlay.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/Paddle.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManagerHUD.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/Ball.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_TextEventHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkServer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameObjects/MultiPlayer/BallNetworkBehaviour.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMPro_InstructionOverlay.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Logging/LogFactory.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Resources/Shaders/TMP_SDF-Mobile.shader" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Editor/Weaver/Processors/NetworkBehaviourProcessor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkStartPosition.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Logging/EditorLogSettingsLoader.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/EnvMapAnimator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Logging/LogSettings.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/GameState.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/RemoteCallHelper.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/LLAPITransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/FallbackTransport.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/TextMesh Pro/Examples &amp; Extras/Scripts/TMP_PhoneNumberValidator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/NetworkMessageTypes.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Mirror/Runtime/Transport/MultiplexTransport.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/SampleImageColorChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SliderInitializer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RecordChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/OnButtonClicked.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkPaddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Game.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SomeButtonClickedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonClickedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SliderValueChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/Multiplayer/NetworkPaddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/SliderValueChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/SomeButtonClickedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IValueChanged.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IValueChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/Multiplayer/NetworkBall.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/BallBase.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/Multiplayer/BallNetworkBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/MultiPlayer/NetworkPaddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/MultiPlayer/BallNetworkBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/BallSingleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IPaddleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/MultiPlayer/PaddleNetworkBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/SinglePlayer/PaddleSingleBehaviour.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Messages.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/NetworkMessages.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameState.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/CounterChangedListenerListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/RecordChangedListenerListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/CounterChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/ButtonClickedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameProcessManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SomeButtonClickedManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/SampleImageColorChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/SaveLoadManger.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Buttons.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/OptionsManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Listeners/RecordChangedListener.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Interfaces/IGamePlayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Mirror/Runtime/NetworkManagerHUD.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GamePlayNetworkManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GameManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/Ball.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/GameObjects/Paddle.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Managers/GamePlayManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CameraResolution.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1ddAWbFyzcB2GRYOjg86qlsJZD9" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Discover.Launch.Via.Unity" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="399847ea-9336-4ec4-8c52-445d3b064bf0" name="Default Changelist" comment="" />
+      <created>1592744630006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592744630006</updated>
+      <workItem from="1592744636374" duration="20693000" />
+      <workItem from="1592829924892" duration="22428000" />
+      <workItem from="1592998618719" duration="21153000" />
+      <workItem from="1593086894735" duration="5046000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
+  <component name="WindowStateProjectService">
+    <state x="794" y="221" key="RiderGenerateDialog" timestamp="1593004563318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="221" key="RiderGenerateDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593004563318" />
+    <state x="627" y="252" width="666" height="536" key="find.popup" timestamp="1593091085739">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="627" y="252" width="666" height="536" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1593091085739" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1592852269150">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592852269150" />
+  </component>
+</project>
